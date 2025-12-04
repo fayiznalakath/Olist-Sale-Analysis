@@ -24,17 +24,15 @@ The report delivers insights into customer behavior, order patterns, seller perf
 
 ---
 
-## 📁 Repository Structure
+## 🗂 Repository Structure
 
-\`\`\`
-Olist-Sale-Analysis/
-│
-├── Olist_Sales_Analysis.pbix              # Power BI dashboard
-├── Olist_Sales_Analysis_Report.pdf        # Final exported report
-├── data/                                  # Raw Olist datasets (CSV)
-├── screenshots/                           # Dashboard previews
-└── README.md
-\`\`\`
+    Olist-Sale-Analysis/
+    │
+    ├── Olist_Sales_Analysis.pbix              # Power BI dashboard
+    ├── Olist_Sales_Analysis_Report.pdf        # Final exported report
+    ├── data/                                  # Raw Olist datasets (CSV)
+    ├── screenshots/                           # Dashboard previews
+    └── README.md
 
 ---
 
